@@ -14,7 +14,3 @@ _based on_ Teensy 4.1 mit Audio Board Rev D + Raspberry Pi 4 mit 3.5“ HDLCD Di
 - Display zeigt das angewählte Instrument und die Parameter, die dafür an den Reglern anliegen, sowie das Echtzeit Audio-Spektrum, editierbar durch Mehr-Band-Equalizer
 
 
-14.07.2025
-Soweit erstmal der Plan.
-Das ist mein erstes eigenes Projekt mit Dokumentation auf GitHub, mal sehen wie ich mich anstellen werde. Ich bau bereits die Hardware zusammen und freu mich schon auf die Programmierung. Drückt mir die Daumen, ich denke das könnte ein starkes Teil werden. 
-Das Gesamtkonzept erklär ich das nächste mal näher. 
